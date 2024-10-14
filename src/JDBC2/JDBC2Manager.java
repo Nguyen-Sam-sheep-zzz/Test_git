@@ -54,5 +54,7 @@ public class JDBC2Manager {
         }
     }
 
-    
+    public void speak() {
+        System.out.println("by Sam");
+    }
 }
