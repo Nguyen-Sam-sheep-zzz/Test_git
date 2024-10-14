@@ -23,5 +23,7 @@ public class JDBC2Manager {
         System.out.println("cua dan");
     }
 
-    
+    public void he() {
+        System.out.println("he");
+    }
 }
