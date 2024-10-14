@@ -19,10 +19,6 @@ public class JDBC2Manager {
         return connection;
     }
 
-    public void text(){
-        System.out.println("cua dan");
-    }
-
     public void he() {
         System.out.println("he");
     }
